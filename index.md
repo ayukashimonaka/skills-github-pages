@@ -1,6 +1,5 @@
 ---
-title: Hi! I'm Ayuka
+title: Dog and Camel
 ---
 
-This is my first message for you.
-Thank you for visiting this site!
+Thank you for visiting my blog!
